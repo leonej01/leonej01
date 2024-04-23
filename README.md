@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm currently transitioning into the field of Artificial Intelligence, driven by my passion for innovation and a commitment to meaningful work. With over 30 years of experience across various industries, I bring a wealth of transferable skills, including emotional intelligence, expert change management, and a knack for fostering collaboration and developing talent.
 
-As I delve deeper into AI, I’m excited by the potential to help organizations harness this technology to enhance efficiency and empower their workforce. My aim is to act as a bridge, translating complex AI concepts into actionable, understandable strategies that drive business outcomes and enrich job satisfaction.
+As I delve deeper into AI, I’m excited by the potential to help organizations harness this technology to enhance efficiency and empower their workforce. I aim is to act as a bridge, translating complex AI concepts into actionable, understandable strategies that drive business outcomes and enrich job satisfaction.
 
 In this journey, I've embraced the steep learning curve, utilizing platforms and resources to build a solid foundation in AI applications. I see myself as a solution consultant, where I can leverage my skills to introduce AI technologies, ensuring they are used ethically and effectively. My ultimate goal is to make technology work for people, not the other way around, enabling them to focus on what they do best.
 
