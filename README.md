@@ -1,7 +1,7 @@
 # Hi, I'm @leonej01
 
 ## About Me
-I'm currently transitioning into the field of Artificial Intelligence, driven by my passion for innovation and a commitment to meaningful work. I bring a wealth of transferable skills, including emotional intelligence, expert change management, creative problem solving and a knack for fostering collaboration and developing talent.
+I have a passion for innovation and a commitment to meaningful work. I bring a wealth of transferable skills, including emotional intelligence, expert change management, creative problem solving and a knack for fostering collaboration and developing talent.
 
 As I delve deeper into AI, I’m excited by the potential to help organizations harness this technology to enhance efficiency and empower their workforce. I aim to act as a bridge, translating complex AI concepts into actionable, understandable strategies that drive business outcomes and enrich job satisfaction.
 
